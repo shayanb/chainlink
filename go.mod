@@ -52,8 +52,6 @@ require (
 	github.com/rs/cors v1.6.0 // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/shopspring/decimal v1.2.0
-	github.com/smartcontractkit/offchain-reporting-design v0.0.0-20200909132341-ed1edda4a444 // indirect
-	github.com/smartcontractkit/offchain-reporting-design/prototype v0.0.0-20200909132341-ed1edda4a444
 	github.com/spf13/afero v1.2.1 // indirect
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.6.1
@@ -68,9 +66,10 @@ require (
 	go.uber.org/multierr v1.5.0
 	go.uber.org/zap v1.15.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
 	golang.org/x/text v0.3.3
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
+	golang.org/x/tools v0.0.0-20200414032229-332987a829c3 // indirect
 	gopkg.in/gormigrate.v1 v1.6.0
 	gopkg.in/guregu/null.v2 v2.1.2 // indirect
 	gopkg.in/guregu/null.v3 v3.5.0
